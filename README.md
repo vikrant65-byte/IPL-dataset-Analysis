@@ -12,7 +12,7 @@ We can get to know more about the dataset by applysin as many queries as we want
 
 
 Steps:-
-1) - Load Dataset
+1) Load Dataset
 2) Join Dataset
 3) Filter and Data cleaning
 4) Convert dataset into Table
