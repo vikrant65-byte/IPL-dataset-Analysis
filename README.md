@@ -11,11 +11,12 @@ Our Aim in this project is to analyse the dataset using sql queries. The tools a
 We can get to know more about the dataset by applysin as many queries as we want but for our study purpose it is limited to 9 queries only.
 
 
-Step 1 - Load Dataset
-Step 2 - Join Dataset
-Step 3 - Filter and Data cleaning
-Step 3 - Convert dataset into Table
-Step 4 - Perform SQl queries using SqlContext 
-Step 5 - Using SQlite Database to create a database for our table
-Step 6 - Creating class Database which has methods to implemewnt our queries using SQlite DAtabase
-Step 7 - Creating objects for our class Database and calling methods to implement ou sql queries thorough it
+Steps:-
+1) - Load Dataset
+2) Join Dataset
+3) Filter and Data cleaning
+4) Convert dataset into Table
+5) Perform SQl queries using SqlContext 
+6) Using SQlite Database to create a database for our table
+7) Creating class Database which has methods to implemewnt our queries using SQlite DAtabase
+8) Creating objects for our class Database and calling methods to implement ou sql queries thorough it
