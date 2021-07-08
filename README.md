@@ -13,8 +13,8 @@ We can get to know more about the dataset by applysin as many queries as we want
 
 Steps:-
 1) Load Dataset
-2) Join Dataset
-3) Filter and Data cleaning
+2) Filter and Data cleaning 
+3) Join Dataset
 4) Convert dataset into Table
 5) Perform SQl queries using SqlContext 
 6) Using SQlite Database to create a database for our table
